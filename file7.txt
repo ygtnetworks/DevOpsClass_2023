@@ -1,2 +1,3 @@
 Hello welcome to learning file
 Hi i am new to this class
+will this resolve the conflict
